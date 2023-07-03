@@ -24,7 +24,7 @@ We used a publicly available dataset called [CK+](http://www.consortium.ri.cmu.e
 To run this project, you need the following dependencies:
 
 - Python 3.6+
-- TensorFlow 2.0+
+- TensorFlow 2.0 or more
 - Keras 2.4+
 - OpenCV 3.4+
 - NumPy
